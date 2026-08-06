@@ -81,7 +81,7 @@ export const cn = defineConfig({
       },
       {
         text: '<iconify-icon icon="fa6-solid:wand-magic-sparkles" style="margin-right:0.25rem;color:#8B5CF6;" alt="assistant"></iconify-icon>配置助手',
-        link: 'https://easytier.rs/assistant',
+        link: 'https://easytier.cn/assistant/',
       },
       {
         text: '<iconify-icon icon="fa6-solid:bug" style="margin-right:0.25rem;color:#FF4500;" alt="bug"></iconify-icon>提交反馈',

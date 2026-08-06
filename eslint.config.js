@@ -8,5 +8,5 @@ export default antfu({
     'pnpm/yaml-enforce-settings': 'off',
     'style/eol-last': ['error', 'always'],
   },
-  ignores: ['**/*.md'],
+  ignores: ['**/*.md', 'public/assistant/**'],
 })
